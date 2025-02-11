@@ -3,6 +3,7 @@
 - [使用Certbot申请免费 HTTPS 证书及自动续期](https://juejin.cn/post/7205839782381928508)
 - [CertBot 证书自动部署](https://docs.certcloud.cn/docs/installation/auto/acme/certbot/)
 - [Cloudflare免费SSL域名证书申请教程 CF自签证书支持泛域名](https://www.caidouy.net/helpcontent/139.html)
+- [无需花一分钱：轻松获取SSL证书的三种方法](https://juejin.cn/post/7367606963452608539)
 
 #### 开源
 - [certbot-dns-aliyun](https://github.com/justjavac/certbot-dns-aliyun)

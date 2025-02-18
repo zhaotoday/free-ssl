@@ -6,6 +6,7 @@
 - [无需花一分钱：轻松获取SSL证书的三种方法](https://juejin.cn/post/7367606963452608539)
 
 #### 开源
+- [certd](https://github.com/certd/certd)
 - [certbot-dns-aliyun](https://github.com/justjavac/certbot-dns-aliyun)
 - [acme.sh](https://github.com/acmesh-official/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
 - [ssl-monitor-create](https://github.com/cuo9958/ssl-monitor-create)

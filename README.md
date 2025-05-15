@@ -1,4 +1,5 @@
 #### 文章
+- [一招直接变永久💡，证书📑 90 天够谁用❗](https://juejin.cn/post/7459429565708402698)
 - [开源实现SSL证书的监听和自动续期](https://juejin.cn/post/7380730718295867402)
 - [使用Certbot申请免费 HTTPS 证书及自动续期](https://juejin.cn/post/7205839782381928508)
 - [CertBot 证书自动部署](https://docs.certcloud.cn/docs/installation/auto/acme/certbot/)
